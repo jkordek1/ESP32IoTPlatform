@@ -1,4 +1,4 @@
 # ESP32IoTPlatform
  Educational IoT platform based on ESP32 microcontroller
 
-Idea of this project is to create an open source platform used for IoT course in Zagreb University of Applied Sciences.
+ESP32IoTPlatform is an open source platform aimed towards IoT course in Zagreb University of Applied Sciences.
