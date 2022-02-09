@@ -3,4 +3,4 @@
 
 ESP32IoTPlatform is an open source platform aimed towards students at Zagreb University of Applied Sciences who will take an IoT course.
 
-It enables students to focus on development of IoT application without advanced knowledge in electronics and microcontrollers.
+It enables students to focus on development of IoT applications only with basic knowledge in electronics and microcontrollers.
