@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP32IoTPlatform_simboli)(type Legacy)(uri ${KIPRJMOD}/ESP32IoTPlatform_simboli.lib)(options "")(descr ""))
+  (lib (name ESP32IoTPlatform-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP32IoTPlatform-rescue.lib)(options "")(descr ""))
+)
