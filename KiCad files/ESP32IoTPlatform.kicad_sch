@@ -562,8 +562,8 @@
     (path "/a3314027-5596-4e66-9e7a-7137a5d3c6ce" (page "6"))
     (path "/a0def7ad-cc88-45e7-9337-edb4950a81c7" (page "7"))
     (path "/9840176d-34d7-45b3-b6fb-fc73202faa39" (page "8"))
-    (path "/cd70b34a-9388-4756-b786-e45f380cda69" (page "9"))
     (path "/91e76c6d-123d-4210-b6f0-42390ee9fe09" (page "9"))
+    (path "/cd70b34a-9388-4756-b786-e45f380cda69" (page "9"))
   )
 
   (symbol_instances
@@ -1102,7 +1102,7 @@
       (reference "R18") (unit 1) (value "470") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fd20a100-cbf2-4a38-bf55-96d1435910e2/5449d505-61cd-48df-b6e6-ae6e371d9990"
-      (reference "R19") (unit 1) (value "LDR") (footprint "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical")
+      (reference "R19") (unit 1) (value "LDR") (footprint "OptoDevice:R_LDR_7x6mm_P5.1mm_Vertical")
     )
     (path "/fd20a100-cbf2-4a38-bf55-96d1435910e2/1167d626-0b07-4f6b-bdd7-ed08eac5054b"
       (reference "R20") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
