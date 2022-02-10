@@ -1,4 +1,4 @@
-19841044811186002
+19842738746449459
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51281,6 +51281,13 @@ MOLEX_47352-1001
 0
 13
 13
+ESP32IoTPlatform
+MountingHole_3.2mm_M3_Pad_Via_edited
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
 ESP32IoTPlatform
 OLED
 Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
