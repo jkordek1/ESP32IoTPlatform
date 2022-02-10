@@ -1043,7 +1043,7 @@
     (property "Value" "JST2.0" (id 1) (at 123.825 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical" (id 2) (at 126.365 64.77 0)
+    (property "Footprint" "ESP32IoTPlatform:A2001WR-S-2P_JST2.0" (id 2) (at 126.365 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 126.365 64.77 0)

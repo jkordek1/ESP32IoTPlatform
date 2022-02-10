@@ -562,8 +562,8 @@
     (path "/a3314027-5596-4e66-9e7a-7137a5d3c6ce" (page "6"))
     (path "/a0def7ad-cc88-45e7-9337-edb4950a81c7" (page "7"))
     (path "/9840176d-34d7-45b3-b6fb-fc73202faa39" (page "8"))
-    (path "/91e76c6d-123d-4210-b6f0-42390ee9fe09" (page "9"))
     (path "/cd70b34a-9388-4756-b786-e45f380cda69" (page "9"))
+    (path "/91e76c6d-123d-4210-b6f0-42390ee9fe09" (page "9"))
   )
 
   (symbol_instances
@@ -1012,7 +1012,7 @@
       (reference "J12") (unit 1) (value "Conn_01x11_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical")
     )
     (path "/5bcf160e-42fa-48f0-b959-5331edc20809/2b71902f-4cf1-4402-949a-419e21d6e0a2"
-      (reference "JST1") (unit 1) (value "JST2.0") (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
+      (reference "JST1") (unit 1) (value "JST2.0") (footprint "ESP32IoTPlatform:A2001WR-S-2P_JST2.0")
     )
     (path "/a0def7ad-cc88-45e7-9337-edb4950a81c7/cd673a4d-10c2-4068-bb02-a384b3669a81"
       (reference "K1") (unit 1) (value "SANYOU_SRD_Form_C") (footprint "ESP32IoTPlatform:Relay_SPDT_SANYOU_SRD_Series_Form_C")

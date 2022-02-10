@@ -45,10 +45,16 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.3
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -115,9 +121,23 @@
       },
       "track_widths": [
         0.0,
-        0.762
+        0.254,
+        0.3048,
+        0.508,
+        0.762,
+        1.27,
+        2.032
       ],
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.8
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -444,12 +464,12 @@
       "LEDs"
     ],
     [
-      "91e76c6d-123d-4210-b6f0-42390ee9fe09",
-      "usb-uart"
-    ],
-    [
       "cd70b34a-9388-4756-b786-e45f380cda69",
       "mcu"
+    ],
+    [
+      "91e76c6d-123d-4210-b6f0-42390ee9fe09",
+      "usb-uart"
     ]
   ],
   "text_variables": {}

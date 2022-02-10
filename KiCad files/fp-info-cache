@@ -1,4 +1,4 @@
-19859422822237050
+19841044811186002
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51240,6 +51240,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 ESP32IoTPlatform
+A2001WR-S-2P_JST2.0
+
+
+0
+4
+2
+ESP32IoTPlatform
 Alps_SKRHABE010
 http://www.alps.com/prod/info/E/HTML/MultiControl/Switch/SKRH/SKRHABE010.html
 
@@ -51337,6 +51344,20 @@ Micro AB USB SMD
 0
 14
 6
+ESP32IoTPlatform
+cloud_logo
+
+
+0
+0
+0
+ESP32IoTPlatform
+kicad_logo
+
+
+0
+0
+0
 ESP32IoTPlatform
 logo
 
@@ -59639,13 +59660,6 @@ Hamamatsu SiPM
 0
 2
 2
-OptoDevice
-Kingbright_KPS-3227
-3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf
-KPS-3227 Ambient Light Photo Sensor
-0
-4
-4
 OptoDevice
 Kingbright_KPS-5130
 http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf
