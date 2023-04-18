@@ -1,5 +1,9 @@
 # ESP32IoTPlatform
-Note: To fix the current KiCad 6.0 issues regarding 3D component models, add the missing KISYS3DMOD to point to the same location as KICAD6_3DMODEL_DIR
+
+[![Version](https://img.shields.io/github/v/release/jkordek1/ESP32IoTPlatform)](https://github.com/jkordek1/ESP32IoTPlatform/releases/tag/Initial)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/ESP32IoTPlatform)](https://github.com/jkordek1/ESP32IoTPlatform/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/ESP32IoTPlatform)](https://github.com/jkordek1/ESP32IoTPlatform/pulls)
 
 Educational IoT platform based on ESP32 microcontroller
 
