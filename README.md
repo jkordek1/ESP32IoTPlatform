@@ -5,8 +5,31 @@
 [![GitHub Issues](https://img.shields.io/github/issues/jkordek1/ESP32IoTPlatform)](https://github.com/jkordek1/ESP32IoTPlatform/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/ESP32IoTPlatform)](https://github.com/jkordek1/ESP32IoTPlatform/pulls)
 
-Educational IoT platform based on ESP32 microcontroller
 
-ESP32IoTPlatform is an open source platform aimed towards students at Zagreb University of Applied Sciences who will take an IoT course.
+## What is it?
+ESP32IoTPlatform is an open source platform aimed towards students at Zagreb University of Applied Sciences who will take the IoT course.
+It enables quick and easy firmware development thanks to built in sensors, actuators and other electronic components.
 
-![](Images/Final_front.PNG)
+## Images
+<p align="center">
+ <img width="800" src="https://raw.githubusercontent.com/jkordek1/ESP32IoTPlatform/main/Images/Final_front.PNG">
+</p>
+
+## Features
+- Based on dual-core ESP32 microcontroller module
+- External battery connector
+- Battery charging via microUSB cable
+- Buzzer for audio queues
+- HC-SR04 ultrasonic sensor connector
+- MOSFET output
+- Relay output
+- LDR
+- Potentiometer
+- 1.3" OLED screen
+- microSD slot
+- accelerometer & gyro
+- BME280 temperature and humidity sensor
+- GPS module
+- WS2812-B RGB LEDs
+- Touchad
+- Joypad
