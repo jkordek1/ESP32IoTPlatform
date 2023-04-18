@@ -10,11 +10,6 @@
 ESP32IoTPlatform is an open source platform aimed towards students at Zagreb University of Applied Sciences who will take the IoT course.
 It enables quick and easy firmware development thanks to built in sensors, actuators and other electronic components.
 
-## Images
-<p align="center">
- <img width="800" src="https://raw.githubusercontent.com/jkordek1/ESP32IoTPlatform/main/Images/Final_front.PNG">
-</p>
-
 ## Features
 - Based on dual-core ESP32 microcontroller module
 - External battery connector
@@ -33,3 +28,21 @@ It enables quick and easy firmware development thanks to built in sensors, actua
 - WS2812-B RGB LEDs
 - Touchad
 - Joypad
+
+## Images
+<p align="center">
+ <img width="800" src="https://raw.githubusercontent.com/jkordek1/ESP32IoTPlatform/main/Images/Final_front.PNG">
+</p>
+
+## Project folder structure
+    .
+    ├── ...
+    ├── Images                  # Images of the project
+    ├── Output files            # Gerber files
+    ├── KiCadFiles              # Main folder
+    │   ├── 3d modeli           # 3D models of added components
+    │   ├── Board2Pdf           # Assembly files
+    │   ├── bom                 # ibom assembly files
+    │   └── gerber              # gerber
+    ├── Schematic.pdf           # Schematic .pdf file
+    └── ...
